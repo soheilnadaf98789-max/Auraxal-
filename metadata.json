@@ -1,0 +1,8 @@
+{
+  "name": "Auraxal Admin",
+  "description": "A mobile-first combined Agency + SaaS management system with dark theme and clean card-based UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
